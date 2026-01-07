@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M0,0h108v108h-108z"/>
+
+    <!-- Darker green circle -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M54,54m-45,0a45,45 0,1 1,90 0a45,45 0,1 1,-90 0"/>
+
+    <!-- Plant/Leaf design -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M54,30 Q45,35 42,45 Q40,52 42,58 Q45,65 54,68 L54,30z"/>
+
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M54,30 Q63,35 66,45 Q68,52 66,58 Q63,65 54,68 L54,30z"/>
+
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M54,35 Q48,40 46,48 Q45,54 46,60 Q48,66 54,69 L54,35z"/>
+
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,35 Q60,40 62,48 Q63,54 62,60 Q60,66 54,69 L54,35z"/>
+
+    <!-- Water droplet -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M70,55 Q72,50 75,48 Q78,50 80,55 Q80,60 75,63 Q70,60 70,55z"/>
+
+    <!-- Light bulb/sensor indicator -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M32,58 m-5,0 a5,5 0,1 1,10 0 a5,5 0,1 1,-10 0"/>
+
+    <!-- Signal waves (IoT/Remote) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M 65,25 Q 70,28 72,33 M 60,23 Q 67,27 70,35 M 55,22 Q 64,27 68,37"/>
+
+    <!-- Base stem -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M52,68 L52,82 L56,82 L56,68 z"/>
+
+</vector>

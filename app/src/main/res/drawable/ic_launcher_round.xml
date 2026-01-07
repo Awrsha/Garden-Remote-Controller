@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0"/>
+
+    <!-- Inner darker circle -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0"/>
+
+    <!-- Stylized plant leaves -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M54,32 C45,32 38,38 36,46 C35,50 36,54 38,57 C42,62 48,65 54,66 L54,32z"/>
+
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M54,32 C63,32 70,38 72,46 C73,50 72,54 70,57 C66,62 60,65 54,66 L54,32z"/>
+
+    <!-- Center leaf -->
+    <path
+        android:fillColor="#A5D6A7"
+        android:pathData="M54,36 C49,36 44,40 42,46 C41,50 42,54 44,57 C47,61 50,64 54,65 L54,36z"/>
+
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,36 C59,36 64,40 66,46 C67,50 66,54 64,57 C61,61 58,64 54,65 L54,36z"/>
+
+    <!-- Water drop -->
+    <path
+        android:fillColor="#42A5F5"
+        android:pathData="M68,52 C68,52 72,48 75,48 C78,48 82,52 82,56 C82,60 78,64 75,64 C72,64 68,60 68,56 C68,54 68,53 68,52z"/>
+
+    <!-- Small light indicator -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M30,54 m-6,0 a6,6 0,1 1,12 0 a6,6 0,1 1,-12 0"/>
+
+    <!-- Light rays -->
+    <path
+        android:strokeColor="#FFF59D"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M24,54 L20,54 M36,54 L40,54 M30,48 L30,44 M30,60 L30,64 M26,50 L23,47 M34,50 L37,47 M26,58 L23,61 M34,58 L37,61"/>
+
+    <!-- Stem -->
+    <path
+        android:fillColor="#6D4C41"
+        android:pathData="M52,65 L52,78 Q52,80 54,80 Q56,80 56,78 L56,65 z"/>
+
+    <!-- Subtle signal waves -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.7"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M62,28 Q66,30 68,34 M58,26 Q64,29 67,35 M54,25 Q61,28 65,36"/>
+
+</vector>
