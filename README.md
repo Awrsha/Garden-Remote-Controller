@@ -4,7 +4,7 @@
 
 ![SMS Control Banner](https://img.shields.io/badge/Android-SMS%20Control-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=24)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-appache-blue.svg)](LICENSE)
 
 **Control your IoT devices remotely via SMS - No internet required**
 
@@ -88,7 +88,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sms-control.git
+   git clone https://github.com/Awrsha/Garden-Remote-Controller.git
+   cd Garden-Remote-Controller
    cd sms-control
    ```
 
