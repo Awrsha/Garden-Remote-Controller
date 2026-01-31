@@ -61,16 +61,16 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots (Successfull Run on Andriod 16)
 
 <div align="center">
 
-| Home Screen | Commands Grid | Status Monitor |
+| Home Screen | Icon | Status Monitor |
 |------------|---------------|----------------|
 | ![Home](images/IMG_20260127_001031_134.jpg) | ![Commands](images/IMG_20260127_001031_391.jpg) | ![Status](images/IMG_20260127_001031_442.jpg) |
 
-| Alarm Setup | Message Log | Settings |
-|------------|------------|----------|
+| Target SimCard Setup | Default Log |
+|------------|------------|
 | ![Alarm](images/IMG_20260127_001031_539.jpg) | ![Messages](images/IMG_20260127_001031_788.jpg) |
 </div>
 
