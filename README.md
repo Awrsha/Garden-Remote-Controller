@@ -67,12 +67,11 @@
 
 | Home Screen | Commands Grid | Status Monitor |
 |------------|---------------|----------------|
-| ![Home](https://via.placeholder.com/250x500/3DDC84/FFFFFF?text=Home+Screen) | ![Commands](https://via.placeholder.com/250x500/007AFF/FFFFFF?text=Commands) | ![Status](https://via.placeholder.com/250x500/34C759/FFFFFF?text=Status) |
+| ![Home](images/IMG_20260127_001031_134.jpg) | ![Commands](images/IMG_20260127_001031_391.jpg) | ![Status](images/IMG_20260127_001031_442.jpg) |
 
 | Alarm Setup | Message Log | Settings |
 |------------|------------|----------|
-| ![Alarm](https://via.placeholder.com/250x500/FF9500/FFFFFF?text=Alarm+Setup) | ![Messages](https://via.placeholder.com/250x500/5856D6/FFFFFF?text=Messages) | ![Settings](https://via.placeholder.com/250x500/FF2D55/FFFFFF?text=Settings) |
-
+| ![Alarm](images/IMG_20260127_001031_539.jpg) | ![Messages](images/IMG_20260127_001031_788.jpg) |
 </div>
 
 ---
